@@ -64,7 +64,7 @@ Use --skip-python-version-check to suppress this warning.
 
 @lru_cache()
 def commit_hash():
-    print("FIX: Remove hash commit")
+    print("FIX: Remove hash commit.")
 
 
 @lru_cache()
